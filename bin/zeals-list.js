@@ -1,2 +1,3 @@
 #!/usr/bin/env node 
-console.log('zeals list');
+const tplObj = require(`${__dirname}/../template`)
+console.log(tplObj)
