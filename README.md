@@ -1,2 +1,2 @@
 # zeals-cli
- An cli
+ A cli for various templates
