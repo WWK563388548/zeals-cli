@@ -1,0 +1,2 @@
+# zeals-cli
+ An cli

@@ -1,0 +1,24 @@
+{
+  "name": "zeals-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin": {
+    "zeals": "bin/zeals.js",
+    "zeals-add": "bin/zeals-add.js",
+    "zeals-delete": "bin/zeals-delete.js",
+    "zeals-list": "bin/zeals-list.js",
+    "zeals-init": "bin/zeals-init.js"
+  },
+  "private": false,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.3.3",
+    "ora": "^4.0.5"
+  }
+}
